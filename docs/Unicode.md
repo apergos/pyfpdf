@@ -64,7 +64,7 @@ pdf.set_font('DejaVu', '', 14)
 
 text = u"""
 English: Hello World
-Greek: Γειά σου κόσμος
+Greek: Γειά σου κόσμε
 Polish: Witaj świecie
 Portuguese: Olá mundo
 Russian: Здравствуй, Мир
